@@ -1,0 +1,25 @@
+{
+  "name": "es6-router",
+  "version": "1.0.0",
+  "description": "simplistic router written in es6 for my small nw projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theDevelopper/es6-router.git"
+  },
+  "keywords": [
+    "es6",
+    "router",
+    "nw",
+    "node-webkit"
+  ],
+  "author": "theDevelopper",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/theDevelopper/es6-router/issues"
+  },
+  "homepage": "https://github.com/theDevelopper/es6-router#readme"
+}
